@@ -1,0 +1,20 @@
+c:\users\raul\source\repos\Urna\Urna\bin\Debug\Urna.exe.config
+c:\users\raul\source\repos\Urna\Urna\bin\Debug\Urna.exe
+c:\users\raul\source\repos\Urna\Urna\bin\Debug\Urna.pdb
+c:\users\raul\source\repos\Urna\Urna\obj\Debug\Urna.csprojAssemblyReference.cache
+c:\users\raul\source\repos\Urna\Urna\obj\Debug\Urna.Form1.resources
+c:\users\raul\source\repos\Urna\Urna\obj\Debug\Urna.Properties.Resources.resources
+c:\users\raul\source\repos\Urna\Urna\obj\Debug\Urna.csproj.GenerateResource.cache
+c:\users\raul\source\repos\Urna\Urna\obj\Debug\Urna.csproj.CoreCompileInputs.cache
+c:\users\raul\source\repos\Urna\Urna\obj\Debug\Urna.exe
+c:\users\raul\source\repos\Urna\Urna\obj\Debug\Urna.pdb
+C:\Users\Raul\Source\Repos\Urna\Urna\obj\Debug\Urna.Form2.resources
+E:\Executaveis liberados\urna-Csharp-master (1)\urna-Csharp-master\Urna\bin\Debug\Urna.exe.config
+E:\Executaveis liberados\urna-Csharp-master (1)\urna-Csharp-master\Urna\bin\Debug\Urna.exe
+E:\Executaveis liberados\urna-Csharp-master (1)\urna-Csharp-master\Urna\bin\Debug\Urna.pdb
+E:\Executaveis liberados\urna-Csharp-master (1)\urna-Csharp-master\Urna\obj\Debug\Urna.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\urna-Csharp-master (1)\urna-Csharp-master\Urna\obj\Debug\Urna.Form1.resources
+E:\Executaveis liberados\urna-Csharp-master (1)\urna-Csharp-master\Urna\obj\Debug\Urna.Properties.Resources.resources
+E:\Executaveis liberados\urna-Csharp-master (1)\urna-Csharp-master\Urna\obj\Debug\Urna.csproj.GenerateResource.Cache
+E:\Executaveis liberados\urna-Csharp-master (1)\urna-Csharp-master\Urna\obj\Debug\Urna.exe
+E:\Executaveis liberados\urna-Csharp-master (1)\urna-Csharp-master\Urna\obj\Debug\Urna.pdb
