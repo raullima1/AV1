@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\c#\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c#\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\User\Desktop\c#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c#\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\User\Desktop\c#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\User\Desktop\c#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\User\Desktop\c#\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\User\Desktop\c#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\User\Desktop\c#\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+E:\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+E:\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+E:\Executaveis liberados\urna-Csharp-master (1)\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\urna-Csharp-master (1)\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\Executaveis liberados\urna-Csharp-master (1)\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+E:\Executaveis liberados\urna-Csharp-master (1)\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
