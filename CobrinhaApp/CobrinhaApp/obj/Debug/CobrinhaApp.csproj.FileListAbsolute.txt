@@ -1,0 +1,18 @@
+C:\Users\jhenr\onedrive\documents\visual studio 2017\Projects\CobrinhaApp\CobrinhaApp\obj\Debug\CobrinhaApp.csprojResolveAssemblyReference.cache
+C:\Users\jhenr\onedrive\documents\visual studio 2017\Projects\CobrinhaApp\CobrinhaApp\obj\Debug\CobrinhaApp.Form1.resources
+C:\Users\jhenr\onedrive\documents\visual studio 2017\Projects\CobrinhaApp\CobrinhaApp\obj\Debug\CobrinhaApp.Properties.Resources.resources
+C:\Users\jhenr\onedrive\documents\visual studio 2017\Projects\CobrinhaApp\CobrinhaApp\obj\Debug\CobrinhaApp.csproj.GenerateResource.Cache
+C:\Users\jhenr\onedrive\documents\visual studio 2017\Projects\CobrinhaApp\CobrinhaApp\bin\Debug\CobrinhaApp.exe.config
+C:\Users\jhenr\onedrive\documents\visual studio 2017\Projects\CobrinhaApp\CobrinhaApp\bin\Debug\CobrinhaApp.exe
+C:\Users\jhenr\onedrive\documents\visual studio 2017\Projects\CobrinhaApp\CobrinhaApp\bin\Debug\CobrinhaApp.pdb
+C:\Users\jhenr\onedrive\documents\visual studio 2017\Projects\CobrinhaApp\CobrinhaApp\obj\Debug\CobrinhaApp.exe
+C:\Users\jhenr\onedrive\documents\visual studio 2017\Projects\CobrinhaApp\CobrinhaApp\obj\Debug\CobrinhaApp.pdb
+C:\Users\Ho\Desktop\CobrinhaApp\CobrinhaApp\bin\Debug\CobrinhaApp.exe.config
+C:\Users\Ho\Desktop\CobrinhaApp\CobrinhaApp\obj\Debug\CobrinhaApp.exe
+C:\Users\Ho\Desktop\CobrinhaApp\CobrinhaApp\obj\Debug\CobrinhaApp.pdb
+C:\Users\Ho\Desktop\CobrinhaApp\CobrinhaApp\bin\Debug\CobrinhaApp.exe
+C:\Users\Ho\Desktop\CobrinhaApp\CobrinhaApp\bin\Debug\CobrinhaApp.pdb
+C:\Users\Ho\Desktop\CobrinhaApp\CobrinhaApp\obj\Debug\CobrinhaApp.csprojResolveAssemblyReference.cache
+C:\Users\Ho\Desktop\CobrinhaApp\CobrinhaApp\obj\Debug\CobrinhaApp.Form1.resources
+C:\Users\Ho\Desktop\CobrinhaApp\CobrinhaApp\obj\Debug\CobrinhaApp.Properties.Resources.resources
+C:\Users\Ho\Desktop\CobrinhaApp\CobrinhaApp\obj\Debug\CobrinhaApp.csproj.GenerateResource.Cache
